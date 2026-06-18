@@ -74,7 +74,7 @@ export const FooterView = () => {
             {/* Social Media Links */}
             <div className="flex items-center gap-3 mt-2">
               <a
-                href="https://instagram.com"
+                href="https://www.instagram.com/hideous_healing?igsh=MW1sNTVlcG5xbnlvMA=="
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-8 h-8 rounded-full border border-primary/20 text-text-muted flex items-center justify-center transition-all duration-300 ease-out hover:scale-110 hover:text-primary hover:border-primary hover:shadow-[0_0_12px_rgba(213,164,78,0.35)] hover:bg-primary/5 cursor-pointer"
