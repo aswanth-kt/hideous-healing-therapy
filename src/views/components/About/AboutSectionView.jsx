@@ -63,7 +63,7 @@ export const AboutSectionView = () => {
               />
               
               {/* Floating quote badge */}
-              <div className="absolute -bottom-2 -left-2 md:-left-6 max-w-xs glass p-5 rounded-2xl border border-primary/20 shadow-lg text-left hidden sm:block">
+              <div className="absolute -bottom-2 -left-2 md:-left-1 max-w-xs glass p-5 rounded-2xl border border-primary/20 shadow-lg text-left hidden sm:block">
                 <span className="text-primary-dark font-serif text-3xl leading-none">“</span>
                 <p className="text-xs text-text-dark italic font-sans mt-1">
                   The wound is the place where the Light enters you.
